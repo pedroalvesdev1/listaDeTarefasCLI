@@ -57,6 +57,9 @@ O parâmetro -cp bin é necessário para que o Java localize as classes compilad
 
 ### 📖 Guia de Comandos  
 ---
+Esse comando lista todos os comandos do programa.
+> ``java -cp bin ToDoApp``
+---
 
 1️⃣ **Adicionar uma nova tarefa**
 
@@ -141,5 +144,6 @@ Durante o desenvolvimento deste projeto, foram utilizados:
 - Controle de estado de tarefas (todo, in-progress, done)
 
 ### 🎯 Conclusão
+
 
 Este projeto foi essencial para reforçar fundamentos da programação em Java e compreender como aplicações CLI funcionam internamente. Além disso, simula o comportamento de ferramentas reais utilizadas no dia a dia de desenvolvedores.
